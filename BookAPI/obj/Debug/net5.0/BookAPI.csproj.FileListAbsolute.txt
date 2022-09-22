@@ -1,0 +1,249 @@
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.json
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.exe
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.deps.json
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.json
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.dev.json
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\ref\BookAPI.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.pdb
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.AssemblyReference.cache
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfoInputs.cache
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfo.cs
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.Manifest.cache
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.xml
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\scopedcss\bundle\BookAPI.styles.css
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.RazorTargetAssemblyInfo.cache
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CopyComplete
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.dll
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\ref\BookAPI.dll
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.pdb
+C:\Curso API\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.genruntimeconfig.cache
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\EntityFramework.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Curso API\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.json
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.exe
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.deps.json
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.json
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.dev.json
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\ref\BookAPI.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.pdb
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\EntityFramework.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Humanizer.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.AssemblyReference.cache
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfoInputs.cache
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfo.cs
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.Manifest.cache
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.xml
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\scopedcss\bundle\BookAPI.styles.css
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.RazorTargetAssemblyInfo.cache
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CopyComplete
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.dll
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\ref\BookAPI.dll
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.pdb
+C:\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.genruntimeconfig.cache
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.json
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.exe
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.deps.json
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.json
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.dev.json
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\ref\BookAPI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.pdb
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\EntityFramework.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Humanizer.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.AssemblyReference.cache
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfoInputs.cache
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfo.cs
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.Manifest.cache
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.xml
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\scopedcss\bundle\BookAPI.styles.css
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.RazorTargetAssemblyInfo.cache
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CopyComplete
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\ref\BookAPI.dll
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.pdb
+C:\ProjetosVs\CursoUdemy\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.genruntimeconfig.cache
