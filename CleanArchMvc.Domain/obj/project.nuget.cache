@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r525j8PSobM6OLn/q6OlN/RGZnM+equ15qNyiwn8aM6IWR7EJELZS3kLI+HwU/Mys5cIDyN8X2wYVanE8+OL4Q==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetosVs\\CursoUdemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andfe\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
+    "C:\\Users\\andfe\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\andfe\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
